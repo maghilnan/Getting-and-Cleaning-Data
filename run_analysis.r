@@ -2,8 +2,6 @@ rm(list = ls())
 
 library(dplyr)
 
-setwd("C:/One-Drive/OneDrive - Tredence/MOOCs/01. Data Science Specialization/03. Getting and Cleaning Data/Peer Review Assignment")
-
 filename = "UCI HAR Dataset.zip"
 
 if (!file.exists(filename)) {
