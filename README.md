@@ -1,4 +1,4 @@
-## Getting and Cleaning Data Course Project
+## Course Project: Getting and Cleaning Data
 
 This repository contains code written to satisfy the requirements for the peer graded assignment for the course [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning/)
 
