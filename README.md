@@ -1,6 +1,6 @@
 ## Course Project: Getting and Cleaning Data
 
-This repository contains code written to satisfy the requirements for the peer graded assignment for the course [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning/)
+This repository contains code written to fulfil the requirements for the peer graded assignment for the course [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning/)
 
 ### Content of the repository:
 
